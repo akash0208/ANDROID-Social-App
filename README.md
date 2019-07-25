@@ -1,3 +1,3 @@
-# ANDROID-Social-App
+# Social Android App
 
-A social app 
+A social app looks like facebook and instagram
