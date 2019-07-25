@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.android\build-cache\c698444be58728b4793972c71bb2fbc06b21907a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\classes_eafa81abad1a762f1f1ede2d325aa1aeb5476f0d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_7d85c10ce670eda430135820f784d1e44e86b22b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\okio-1.13.0_7d85c10ce670eda430135820f784d1e44e86b22b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.android\build-cache\7f862110cf223ffbd7d578ce77bb43442a6b4034\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\classes_1325bbd2589fa905683d32ef87a7daa015743e3f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0995a3d0dee88e5b371657dcb86e18a200424f72">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b2e2800c8f749c9731d61544f4b6d2c1d185dd8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.android\build-cache\7f862110cf223ffbd7d578ce77bb43442a6b4034\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1325bbd2589fa905683d32ef87a7daa015743e3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.android\build-cache\96a80ba76e6af7f7f0e82a40a72119e4d9233363\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\classes_0a63656cd45cb948c9263a9474b080278bd4ef36.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.android\build-cache\760d41b8270f5c7f8c15d41420ab62c8a84ddb51\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3c424e6214f3435fe375f34518ae6b5714ecf2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\picasso-2.5.2_dda7db73188d5007a0139a09b7f564745d440ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.android\build-cache\760d41b8270f5c7f8c15d41420ab62c8a84ddb51\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\classes_b3c424e6214f3435fe375f34518ae6b5714ecf2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.android\build-cache\996480685e5bef050a0f8c9b4f9b53ae16491d9c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="83c0b2c13a1736fcf8d25f8d5e05976c87142d44">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\classes_6c54d172f338a645c61fb5f2e4a3f75da252e489.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.android\build-cache\96a80ba76e6af7f7f0e82a40a72119e4d9233363\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a63656cd45cb948c9263a9474b080278bd4ef36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.0_631979eed1b9a7233e02b454e4aa443775ed1f35\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\bolts-applinks-1.3.0_346aca8b518fa77ff14251e0e37d8fa79a314a5e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.android\build-cache\996480685e5bef050a0f8c9b4f9b53ae16491d9c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="83c0b2c13a1736fcf8d25f8d5e05976c87142d44">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c54d172f338a645c61fb5f2e4a3f75da252e489\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.3.0_346aca8b518fa77ff14251e0e37d8fa79a314a5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.android\build-cache\1f65491941a84ead06e9fdf4c1be9912728bcc8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\classes_252d6b61e6f157368e48ce34a90df5a629c71ac7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_dda7db73188d5007a0139a09b7f564745d440ed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\okhttp-3.8.0_631979eed1b9a7233e02b454e4aa443775ed1f35.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.android\build-cache\1f65491941a84ead06e9fdf4c1be9912728bcc8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_252d6b61e6f157368e48ce34a90df5a629c71ac7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.android\build-cache\ee1b7dbf3aba88af6ec019abdbc4c34ed47ba13b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7ae5f3e1eb5ce09ac288df91a3e63c1fd27b78a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.android\build-cache\04379c1bda94ac8069262328da29eba94f740146\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09ac49178f95bde820928a0ccc67059a2e907d36\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.android\build-cache\bc85f194a8875470d1ebd3b6314204e444755d72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\classes_de802d873deb724b12ed63792ec8608d8468b09b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.android\build-cache\b41d1182bb4aab4cb3c147e41511cf18083132b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_efc46b71e1f54a5ccbc4f594716bb534cfe024ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.android\build-cache\bc85f194a8875470d1ebd3b6314204e444755d72\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de802d873deb724b12ed63792ec8608d8468b09b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.android\build-cache\20d8b5846daa817baff3f4c1db9ad482a193cd1b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_370fe25784842bd5a2e23f9ebfba44ef2bc542f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.android\build-cache\20d8b5846daa817baff3f4c1db9ad482a193cd1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\classes_370fe25784842bd5a2e23f9ebfba44ef2bc542f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.android\build-cache\140dd15374daa6dd804fb4bd9a049f9fd509638c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\classes_4829859f3743cbe85a83df1506133c03f21839a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.android\build-cache\ee1b7dbf3aba88af6ec019abdbc4c34ed47ba13b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\classes_f7ae5f3e1eb5ce09ac288df91a3e63c1fd27b78a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.android\build-cache\04379c1bda94ac8069262328da29eba94f740146\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\classes_09ac49178f95bde820928a0ccc67059a2e907d36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.android\build-cache\b41d1182bb4aab4cb3c147e41511cf18083132b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\classes_efc46b71e1f54a5ccbc4f594716bb534cfe024ba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.android\build-cache\140dd15374daa6dd804fb4bd9a049f9fd509638c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4829859f3743cbe85a83df1506133c03f21839a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.android\build-cache\f0ab5de87fe7ae0f2a271760080d9d707d5677ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c9b831cf63629b8b3873959e52515340484a880">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69ef5460c8ded8fcb39c578a663bb9cf3424f736\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2c9bc41cd027072e829573ea791d6e6035680243\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_a51555383f0f05a3577d364be78bffeedc1a7143\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.android\build-cache\c698444be58728b4793972c71bb2fbc06b21907a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eafa81abad1a762f1f1ede2d325aa1aeb5476f0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.android\build-cache\f0ab5de87fe7ae0f2a271760080d9d707d5677ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c9b831cf63629b8b3873959e52515340484a880">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\classes_69ef5460c8ded8fcb39c578a663bb9cf3424f736.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.android\build-cache\f550d6a367ea45f41a0d200e4519172506f69f98\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0031e576ec87e1450e6021a8d63caa85e27db62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\donvk\.android\build-cache\3583d23f253d1d37ec62615a07197b65ad44ba25\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="771e1739a38be7573c55458d16ca2d2f9f546cf7">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5aaa07cc4751bd4f1da13b3458ff4bc587234043\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.android\build-cache\f550d6a367ea45f41a0d200e4519172506f69f98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\classes_c0031e576ec87e1450e6021a8d63caa85e27db62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.android\build-cache\3583d23f253d1d37ec62615a07197b65ad44ba25\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="771e1739a38be7573c55458d16ca2d2f9f546cf7">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\classes_5aaa07cc4751bd4f1da13b3458ff4bc587234043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\donvk\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\donvk\Desktop\Socialapp\app\build\intermediates\pre-dexed\release\bolts-tasks-1.4.0_a51555383f0f05a3577d364be78bffeedc1a7143.jar" />
+    </item>
+
+</items>

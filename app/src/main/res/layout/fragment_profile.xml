@@ -1,0 +1,75 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#9575CD">
+
+    <RelativeLayout
+        android:id="@+id/profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profile_image"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/profile"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:id="@+id/profile_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:layout_alignTop="@+id/profile_image"
+            android:layout_alignStart="@+id/profile_home" />
+
+        <TextView
+            android:id="@+id/profile_home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_home_black_24dp"
+            android:text=" Likes in New Delhi"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="18sp"
+            android:layout_marginStart="18dp"
+            android:layout_above="@+id/profile_live"
+            android:layout_toEndOf="@+id/profile_image"
+            android:layout_marginBottom="15dp" />
+
+        <TextView
+            android:id="@+id/profile_live"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_001_location"
+            android:text=" Likes in New Delhi"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="18sp"
+            android:layout_alignBottom="@+id/profile_image"
+            android:layout_alignStart="@+id/profile_home" />
+
+    </RelativeLayout>
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tablayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/profile"
+        android:background="#512DA8"/>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tablayout"
+        android:background="#fff"
+        />
+
+</RelativeLayout>

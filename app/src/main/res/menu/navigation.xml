@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/ic_screen_with_news_sections"
+        android:title="@string/title_news" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_round_account_button_with_user_inside"
+        android:title="@string/title_profile" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/ic_searching_magnifying_glass"
+        android:title="@string/title_search" />
+
+    <item
+        android:id="@+id/navigation_logout"
+        android:icon="@drawable/ic_icon"
+        android:title="@string/title_logout" />
+
+</menu>

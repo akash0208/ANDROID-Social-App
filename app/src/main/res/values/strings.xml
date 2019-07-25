@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Social</string>
+    <string name="Main_Activity_Button">Lets be Social</string>
+    <string name="email">Email or Phone number</string>
+    <string name="password">Password</string>
+
+    <string name="loading">Loading..</string>
+
+    <string name="login">Log In</string>
+    <string name="signup">or Sign Up</string>
+
+    <string name="facebook_app_id">182597128942582</string>
+
+    <string name="forget">Forget Password?</string>
+
+    <string name="or">Or</string>
+
+    <string name="signup2">Sign Up</string>
+    <string name="name">Name: </string>
+    <string name="emailid">E-mail ID: </string>
+    <string name="phone">Phone No.: </string>
+    <string name="gen">Gender: </string>
+    <string name="pass">Password: </string>
+    <string name="confirm">Re-enter: </string>
+    <string name="title_activity_main_content">MainContent</string>
+    <string name="title_news">News Feed</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_search">Search</string>
+    <string name="title_logout">Log Out</string>
+
+    <string name="forget_Email">Enter Email ID</string>
+    <string name="reset_button">Reset Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
